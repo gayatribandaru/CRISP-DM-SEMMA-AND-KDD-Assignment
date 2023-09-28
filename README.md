@@ -34,15 +34,24 @@ Dataset: Iris Dataset
 Model: Decision Tree Classifier
 Implementation: crisp_dm.py
 
+<img width="1470" alt="Screenshot 2023-09-28 at 4 05 11 PM" src="https://github.com/gayatribandaru/CRISP-DM-SEMMA-AND-KDD-Assignment/assets/59916012/9d8fd7f7-8f7c-4d6f-ba7f-ce57c54ce0cd">
+
+
 ## SEMMA
 Dataset: Wine Dataset
 Model: Random Forest Classifier
 Implementation: semma.py
 
+<img width="988" alt="Screenshot 2023-09-28 at 4 05 56 PM" src="https://github.com/gayatribandaru/CRISP-DM-SEMMA-AND-KDD-Assignment/assets/59916012/e5fecbc1-06a5-4a3e-9a1d-551889d4b5ef">
+
+
 ## KDD
 Dataset: Breast Cancer Dataset
 Model: Gradient Boosting Classifier
 Implementation: kdd.py
+
+<img width="1517" alt="Screenshot 2023-09-28 at 4 06 52 PM" src="https://github.com/gayatribandaru/CRISP-DM-SEMMA-AND-KDD-Assignment/assets/59916012/84ac32a7-9ca1-4bc3-845f-96ae901da490">
+
 
 ## Installation
 To run the project, you need to have Python installed. You can then install the necessary libraries using pip:
