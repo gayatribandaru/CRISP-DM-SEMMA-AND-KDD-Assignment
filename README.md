@@ -2,6 +2,14 @@
 
 This project explores three distinct data mining methodologies: CRISP-DM, SEMMA, and KDD, each implemented on different datasets using Python and various machine learning models. Additionally, Auto-Sklearn, an AutoML library, is used to demonstrate automated machine learning.
 
+# Medium Articles:
+
+  - https://medium.com/@Gayatri2410/navigating-data-mining-with-crisp-dm-a-comprehensive-guide-eebb64bb9948
+
+  - https://medium.com/@Gayatri2410/semma-simplifying-model-development-in-data-mining-17911ac27306
+
+  - https://medium.com/@Gayatri2410/kdd-unveiling-the-comprehensive-framework-for-knowledge-discovery-in-databases-b469b3cf1ecd 
+
 ## Table of Contents
 
 - Methodologies
