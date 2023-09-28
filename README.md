@@ -5,11 +5,17 @@ This project explores three distinct data mining methodologies: CRISP-DM, SEMMA,
 ## Table of Contents
 
 - Methodologies
+
   -CRISP-DM
+
   -SEMMA
+
   -KDD
+
 -Installation
+
 -Usage
+
 -License
 
 # Methodologies
